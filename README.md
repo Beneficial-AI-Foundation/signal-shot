@@ -189,7 +189,7 @@ Key topics:
 
 **Core team:** Shaowei Lin · Rolfe Schmidt · Sofia Lanfri · Mikhail Asavkin · Armin Vrevic · Thiago Silva · Oliver Butterley · Filippo A. E. Nuccio
 
-**Partner organizations:** Beneficial AI Foundation · Signal · Lean FRO · Cryspen · Stanford · UC Berkeley · Google · Microsoft · and 20+ more.
+**Contributors:** Research experts who advise event organization and review code submissions. [See List](https://www.beneficialaifoundation.org/signal-shot#:~:text=ORGANIZERS-,COLLABORATORS,-Karthik%20Bhargavan%2C).
 
 <p align="center">
   <a href="https://www.beneficialaifoundation.org/">
