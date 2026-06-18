@@ -96,7 +96,8 @@ Pick the repository whose subject matches your interests and expertise. Each one
 1. **Pick a project** from the tables above whose topic matches your background.
 2. **Read its docs.** Every repository has a `README`, and most have a `CONTRIBUTING.md`, a `TRACKS.md`, or a similar status board describing what's currently being worked on and how to claim a task.
 3. **Join the [Zulip channel](https://leanprover.zulipchat.com/#narrow/channel/583276-Signal-Shot)** to introduce yourself, ask questions, and coordinate with other contributors before starting non-trivial work.
-4. **Open an issue or PR.** Look for `good first issue` labels where available, and check in on Zulip before tackling larger pieces.
+4. **Fork the repository, then open a PR.** Push your branch to your own fork and open a pull request back to the upstream `main`. Look for `good first issue` labels where available, and check in on Zulip before tackling larger pieces.
+    > 🔀 **Why fork?** Branches in the upstream Signal Shot repositories are reserved for maintainers. External contributors should always work from a fork — this keeps the upstream branch list clean and is the standard open-source workflow. New to forking? See GitHub's [contributing to a project](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) guide.
 
 ### Who we're looking for
 
