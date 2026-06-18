@@ -90,7 +90,7 @@ Pick the repository whose subject matches your interests and expertise. Each one
 ## How to contribute
 
 ```
-   1. Pick a project   →   2. Read its docs   →   3. Join Zulip   →   4. Open an issue or PR
+   1. Pick a project   →   2. Read its docs   →   3. Join Zulip   →   4. Fork & open a PR
 ```
 
 1. **Pick a project** from the tables above whose topic matches your background.
